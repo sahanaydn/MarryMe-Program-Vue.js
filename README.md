@@ -5,3 +5,6 @@
     $ git clone https://github.com/sahanaydn/MarryMe-Program-Vue.js.git
     $ cd MarryMe-Program-Vue.js
     $ npm install
+##  Running the project
+
+    $ npm run serve
